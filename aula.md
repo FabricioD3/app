@@ -8,13 +8,13 @@
 
 ## Pecas de uma Linguagem
 
-- Comentarios
-- Declaracao de variaveis (const, let)
-- Operadores (atribuicao, concatenacao, matematicos, logicos)
-- Tipos de dados (String, number, boolean)
-- Estrutura de dados (function, object, array)
-- Controle de fluxo (if/else)
-- Estrutura de repeticao (for, while) 
+- [x]Comentarios
+- []Declaracao de variaveis (const, let)
+- []Operadores (atribuicao, concatenacao, matematicos, logicos)
+- []Tipos de dados (String, number, boolean)
+- []Estrutura de dados (function, object, array)
+- []Controle de fluxo (if/else)
+- []Estrutura de repeticao (for, while) 
 
 # Fases da resolucao de um problema
 
@@ -22,4 +22,18 @@ Coletar os dados
 Processar os dados (manipular, alterar...)
 Apresentar os dados
 
+## Escopo e Variaveis
+
+Variaveis Globais e Locais
+Constantes
+
+## Tipos de dados:
+
+strings (Texto): "" '' ``
+Number: 2 1.4
+Function
+
+## Operadores
+
+Operadores de atribuicao de valor
 
