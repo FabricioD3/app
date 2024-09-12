@@ -8,13 +8,13 @@
 
 ## Pecas de uma Linguagem
 
-- [x]Comentarios
-- []Declaracao de variaveis (const, let)
-- []Operadores (atribuicao, concatenacao, matematicos, logicos)
-- []Tipos de dados (String, number, boolean)
-- []Estrutura de dados (function, object, array)
-- []Controle de fluxo (if/else)
-- []Estrutura de repeticao (for, while) 
+- Comentarios
+- Declaracao de variaveis (const, let)
+- Operadores (atribuicao, concatenacao, matematicos, logicos)
+- Tipos de dados (String, number, boolean)
+- Estrutura de dados (function, object, array)
+- Controle de fluxo (if/else)
+- Estrutura de repeticao (for, while) 
 
 # Fases da resolucao de um problema
 
@@ -35,8 +35,9 @@ Apresentar os dados
 
 ## Operadores
 
-- [x] Operadores de atribuicao de valor =
-- [x] Operador de concatenacao +
+- [x] Operadores de atribuicao de valor: =
+- [x] Operador de concatenacao: +
+- [x] Operadores de comparacoes: ==  !=  <=  >=   < >
 
 ## Estrutura de Dados
 
@@ -63,9 +64,15 @@ Apresentar os dados
 # Condicionais
 
 - [x] switch
+- [x] if/elsen
 
 
 ## Modulos em node.js:
 
 - [x] Importacao de modulos (riquere, commonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+
+
+## Progamacao assincrona e Promises:
+
+- [x] Uso de funcoes assincronas (async/await)
