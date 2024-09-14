@@ -18,7 +18,7 @@ Aplicativo de linha de comando para gerenciar metas com cadastro, listagem, marc
 
 2. Execute o aplicativo:
   ```bash
- node app.js
+ node index.js
 
 3. Navegue pelo menu para gerenciar suas metas.
 
