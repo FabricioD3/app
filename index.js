@@ -116,7 +116,7 @@ const deletarMetas = async () => {
         mensagem = "Nao existem metas!"
         return
     }
-    
+
     const metasDesmarcadas = metas.map((meta) => {
         return {value: meta.value, checked: false}
     })
@@ -187,7 +187,6 @@ const start = async () => {
                 }
             ]
         })
-
 
         switch (opcao) {
             case "cadastrar":
